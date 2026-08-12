@@ -1,2 +1,2 @@
-# algosource.github.io
+# algosource
 Сборник алгоритмов
